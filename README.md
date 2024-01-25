@@ -1,1 +1,3 @@
-# MultiTDS
+# **MultiTDS: Analysis of Sequence Data Under Multivariate Trait-Dependent Sampling**
+
+MultiTDS is a command-line software program written in C++ to implement the methods described in [Tao *et al*. (2015)](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1008099#abstract) for the analysis of sequence data under multivariate trait-dependent sampling. The program is written for 64-bit x86 based Linux. The most recent version is 1.0, which can be downloaded [here](http://dlin.web.unc.edu/wp-content/uploads/sites/1568/2014/09/MultiTDS.zip). A brief documentation is available [here](http://dlin.web.unc.edu/wp-content/uploads/sites/1568/2014/09/MultiTDS_V1.0_manual.pdf).
